@@ -1,0 +1,535 @@
+{
+    "chefs": [
+      
+        {
+          "chef_id": 1,
+          "name": "Jhakkas Bhaijan",
+          "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
+          "image_url": "https://www.nicepng.com/png/detail/24-241804_chef-png-chef.png",
+          "likes":"60",
+          "recipes": [
+            {
+              "recipe_id": 1,
+              "name": "Spaghetti Carbonara",
+              "ingredients": [
+                "spaghetti",
+                "eggs",
+                "pancetta",
+                "Parmesan cheese",
+                "garlic",
+                "olive oil",
+                "black pepper"
+              ]
+            },
+            {
+              "recipe_id": 2,
+              "name": "Beef Bourguignon",
+              "ingredients": [
+                "beef chuck",
+                "red wine",
+                "onions",
+                "carrots",
+                "garlic",
+                "thyme",
+                "bay leaf"
+              ]
+            },
+            {
+              "recipe_id": 3,
+              "name": "Chicken Piccata",
+              "ingredients": [
+                "chicken breasts",
+                "lemon",
+                "capers",
+                "flour",
+                "butter",
+                "chicken broth",
+                "white wine"
+              ]
+            },
+            {
+              "recipe_id": 4,
+              "name": "Steak Fajitas",
+              "ingredients": [
+                "flank steak",
+                "bell peppers",
+                "onion",
+                "lime",
+                "cumin",
+                "chili powder",
+                "tortillas"
+              ]
+            },
+            {
+              "recipe_id": 5,
+              "name": "Vegetable Lasagna",
+              "ingredients": [
+                "lasagna noodles",
+                "zucchini",
+                "yellow squash",
+                "carrots",
+                "spinach",
+                "ricotta cheese",
+                "mozzarella cheese"
+              ]
+            },
+            {
+              "recipe_id": 6,
+              "name": "Beef Stroganoff",
+              "ingredients": [
+                "beef sirloin",
+                "mushrooms",
+                "onion",
+                "sour cream",
+                "beef broth",
+                "noodles",
+                "flour"
+              ]
+            }
+          ]
+        },
+
+        {
+            "chef_id": 2,
+            "name": "Md Junayed Ansari",
+            "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
+            "image_url": "https://www.nicepng.com/png/detail/24-241804_chef-png-chef.png",
+            "likes":"77",
+            "recipes": [
+              {
+                "recipe_id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                  "spaghetti",
+                  "eggs",
+                  "pancetta",
+                  "Parmesan cheese",
+                  "garlic",
+                  "olive oil",
+                  "black pepper"
+                ]
+              },
+              {
+                "recipe_id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                  "beef chuck",
+                  "red wine",
+                  "onions",
+                  "carrots",
+                  "garlic",
+                  "thyme",
+                  "bay leaf"
+                ]
+              },
+              {
+                "recipe_id": 3,
+                "name": "Chicken Piccata",
+                "ingredients": [
+                  "chicken breasts",
+                  "lemon",
+                  "capers",
+                  "flour",
+                  "butter",
+                  "chicken broth",
+                  "white wine"
+                ]
+              },
+              {
+                "recipe_id": 4,
+                "name": "Steak Fajitas",
+                "ingredients": [
+                  "flank steak",
+                  "bell peppers",
+                  "onion",
+                  "lime",
+                  "cumin",
+                  "chili powder",
+                  "tortillas"
+                ]
+              },
+              {
+                "recipe_id": 5,
+                "name": "Vegetable Lasagna",
+                "ingredients": [
+                  "lasagna noodles",
+                  "zucchini",
+                  "yellow squash",
+                  "carrots",
+                  "spinach",
+                  "ricotta cheese",
+                  "mozzarella cheese"
+                ]
+              },
+              {
+                "recipe_id": 6,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                  "beef sirloin",
+                  "mushrooms",
+                  "onion",
+                  "sour cream",
+                  "beef broth",
+                  "noodles",
+                  "flour"
+                ]
+              }
+            ]
+          }, 
+
+          {
+            "chef_id": 3,
+            "name": "Md Shanto Islam",
+            "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
+            "image_url": "https://www.nicepng.com/png/detail/24-241804_chef-png-chef.png",
+            "likes":"115",
+            "recipes": [
+              {
+                "recipe_id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                  "spaghetti",
+                  "eggs",
+                  "pancetta",
+                  "Parmesan cheese",
+                  "garlic",
+                  "olive oil",
+                  "black pepper"
+                ]
+              },
+              {
+                "recipe_id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                  "beef chuck",
+                  "red wine",
+                  "onions",
+                  "carrots",
+                  "garlic",
+                  "thyme",
+                  "bay leaf"
+                ]
+              },
+              {
+                "recipe_id": 3,
+                "name": "Chicken Piccata",
+                "ingredients": [
+                  "chicken breasts",
+                  "lemon",
+                  "capers",
+                  "flour",
+                  "butter",
+                  "chicken broth",
+                  "white wine"
+                ]
+              },
+              {
+                "recipe_id": 4,
+                "name": "Steak Fajitas",
+                "ingredients": [
+                  "flank steak",
+                  "bell peppers",
+                  "onion",
+                  "lime",
+                  "cumin",
+                  "chili powder",
+                  "tortillas"
+                ]
+              },
+              {
+                "recipe_id": 5,
+                "name": "Vegetable Lasagna",
+                "ingredients": [
+                  "lasagna noodles",
+                  "zucchini",
+                  "yellow squash",
+                  "carrots",
+                  "spinach",
+                  "ricotta cheese",
+                  "mozzarella cheese"
+                ]
+              },
+              {
+                "recipe_id": 6,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                  "beef sirloin",
+                  "mushrooms",
+                  "onion",
+                  "sour cream",
+                  "beef broth",
+                  "noodles",
+                  "flour"
+                ]
+              }
+            ]
+          },
+
+          {
+            "chef_id": 4,
+            "name": "Salma Begum",
+            "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
+            "image_url": "https://www.nicepng.com/png/detail/24-241804_chef-png-chef.png",
+            "likes":"250",
+            "recipes": [
+              {
+                "recipe_id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                  "spaghetti",
+                  "eggs",
+                  "pancetta",
+                  "Parmesan cheese",
+                  "garlic",
+                  "olive oil",
+                  "black pepper"
+                ]
+              },
+              {
+                "recipe_id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                  "beef chuck",
+                  "red wine",
+                  "onions",
+                  "carrots",
+                  "garlic",
+                  "thyme",
+                  "bay leaf"
+                ]
+              },
+              {
+                "recipe_id": 3,
+                "name": "Chicken Piccata",
+                "ingredients": [
+                  "chicken breasts",
+                  "lemon",
+                  "capers",
+                  "flour",
+                  "butter",
+                  "chicken broth",
+                  "white wine"
+                ]
+              },
+              {
+                "recipe_id": 4,
+                "name": "Steak Fajitas",
+                "ingredients": [
+                  "flank steak",
+                  "bell peppers",
+                  "onion",
+                  "lime",
+                  "cumin",
+                  "chili powder",
+                  "tortillas"
+                ]
+              },
+              {
+                "recipe_id": 5,
+                "name": "Vegetable Lasagna",
+                "ingredients": [
+                  "lasagna noodles",
+                  "zucchini",
+                  "yellow squash",
+                  "carrots",
+                  "spinach",
+                  "ricotta cheese",
+                  "mozzarella cheese"
+                ]
+              },
+              {
+                "recipe_id": 6,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                  "beef sirloin",
+                  "mushrooms",
+                  "onion",
+                  "sour cream",
+                  "beef broth",
+                  "noodles",
+                  "flour"
+                ]
+              }
+            ]
+          }, 
+
+          {
+            "chef_id": 5,
+            "name": "Kaka Ferdous",
+            "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
+            "image_url": "https://yt3.googleusercontent.com/ytc/AGIKgqPbzaEUy-Gdjx8vZjaffeGSnaPeUa9pnj0gXJlR=s900-c-k-c0x00ffffff-no-rj",
+            "likes":"652",
+            "recipes": [
+              {
+                "recipe_id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                  "spaghetti",
+                  "eggs",
+                  "pancetta",
+                  "Parmesan cheese",
+                  "garlic",
+                  "olive oil",
+                  "black pepper"
+                ]
+              },
+              {
+                "recipe_id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                  "beef chuck",
+                  "red wine",
+                  "onions",
+                  "carrots",
+                  "garlic",
+                  "thyme",
+                  "bay leaf"
+                ]
+              },
+              {
+                "recipe_id": 3,
+                "name": "Chicken Piccata",
+                "ingredients": [
+                  "chicken breasts",
+                  "lemon",
+                  "capers",
+                  "flour",
+                  "butter",
+                  "chicken broth",
+                  "white wine"
+                ]
+              },
+              {
+                "recipe_id": 4,
+                "name": "Steak Fajitas",
+                "ingredients": [
+                  "flank steak",
+                  "bell peppers",
+                  "onion",
+                  "lime",
+                  "cumin",
+                  "chili powder",
+                  "tortillas"
+                ]
+              },
+              {
+                "recipe_id": 5,
+                "name": "Vegetable Lasagna",
+                "ingredients": [
+                  "lasagna noodles",
+                  "zucchini",
+                  "yellow squash",
+                  "carrots",
+                  "spinach",
+                  "ricotta cheese",
+                  "mozzarella cheese"
+                ]
+              },
+              {
+                "recipe_id": 6,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                  "beef sirloin",
+                  "mushrooms",
+                  "onion",
+                  "sour cream",
+                  "beef broth",
+                  "noodles",
+                  "flour"
+                ]
+              }
+            ]
+          }, 
+
+          {
+            "chef_id": 6,
+            "name": "Kaki Varti",
+            "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
+            "image_url": "https://images.news18.com/ibnlive/uploads/2022/09/pjimage-9-3.jpg",
+            "likes":"321",
+            "recipes": [
+              {
+                "recipe_id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                  "spaghetti",
+                  "eggs",
+                  "pancetta",
+                  "Parmesan cheese",
+                  "garlic",
+                  "olive oil",
+                  "black pepper"
+                ]
+              },
+              {
+                "recipe_id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                  "beef chuck",
+                  "red wine",
+                  "onions",
+                  "carrots",
+                  "garlic",
+                  "thyme",
+                  "bay leaf"
+                ]
+              },
+              {
+                "recipe_id": 3,
+                "name": "Chicken Piccata",
+                "ingredients": [
+                  "chicken breasts",
+                  "lemon",
+                  "capers",
+                  "flour",
+                  "butter",
+                  "chicken broth",
+                  "white wine"
+                ]
+              },
+              {
+                "recipe_id": 4,
+                "name": "Steak Fajitas",
+                "ingredients": [
+                  "flank steak",
+                  "bell peppers",
+                  "onion",
+                  "lime",
+                  "cumin",
+                  "chili powder",
+                  "tortillas"
+                ]
+              },
+              {
+                "recipe_id": 5,
+                "name": "Vegetable Lasagna",
+                "ingredients": [
+                  "lasagna noodles",
+                  "zucchini",
+                  "yellow squash",
+                  "carrots",
+                  "spinach",
+                  "ricotta cheese",
+                  "mozzarella cheese"
+                ]
+              },
+              {
+                "recipe_id": 6,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                  "beef sirloin",
+                  "mushrooms",
+                  "onion",
+                  "sour cream",
+                  "beef broth",
+                  "noodles",
+                  "flour"
+                ]
+              }
+            ]
+          }
+    ]
+}
+    
+
+      
