@@ -5,7 +5,7 @@
           "chef_id": 1,
           "name": "Jhakkas Bhaijan",
           "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
-          "image_url": "https://www.nicepng.com/png/detail/24-241804_chef-png-chef.png",
+          "image_url": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
           "likes":"60",
           "recipes": [
             {
@@ -72,28 +72,15 @@
                 "ricotta cheese",
                 "mozzarella cheese"
               ]
-            },
-            {
-              "recipe_id": 6,
-              "name": "Beef Stroganoff",
-              "ingredients": [
-                "beef sirloin",
-                "mushrooms",
-                "onion",
-                "sour cream",
-                "beef broth",
-                "noodles",
-                "flour"
-              ]
             }
           ]
         },
 
         {
             "chef_id": 2,
-            "name": "Md Junayed Ansari",
+            "name": "Jorina Begum",
             "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
-            "image_url": "https://www.nicepng.com/png/detail/24-241804_chef-png-chef.png",
+            "image_url": "https://www.escoffier.edu/wp-content/uploads/2016/02/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718.jpg",
             "likes":"77",
             "recipes": [
               {
@@ -181,7 +168,7 @@
             "chef_id": 3,
             "name": "Md Shanto Islam",
             "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
-            "image_url": "https://www.nicepng.com/png/detail/24-241804_chef-png-chef.png",
+            "image_url": "https://www.escoffier.edu/wp-content/uploads/2021/02/Smiling-male-black-chef-with-white-coat-and-hat-scaled.jpg",
             "likes":"115",
             "recipes": [
               {
@@ -247,19 +234,6 @@
                   "spinach",
                   "ricotta cheese",
                   "mozzarella cheese"
-                ]
-              },
-              {
-                "recipe_id": 6,
-                "name": "Beef Stroganoff",
-                "ingredients": [
-                  "beef sirloin",
-                  "mushrooms",
-                  "onion",
-                  "sour cream",
-                  "beef broth",
-                  "noodles",
-                  "flour"
                 ]
               }
             ]
@@ -357,7 +331,7 @@
             "chef_id": 5,
             "name": "Kaka Ferdous",
             "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
-            "image_url": "https://yt3.googleusercontent.com/ytc/AGIKgqPbzaEUy-Gdjx8vZjaffeGSnaPeUa9pnj0gXJlR=s900-c-k-c0x00ffffff-no-rj",
+            "image_url": "https://global-uploads.webflow.com/5f0082d019150187c1bdb9ca/63d0f6d18842ecf4ddb10ba3_chef%20adalah%20(1).webp",
             "likes":"652",
             "recipes": [
               {
@@ -424,19 +398,6 @@
                   "ricotta cheese",
                   "mozzarella cheese"
                 ]
-              },
-              {
-                "recipe_id": 6,
-                "name": "Beef Stroganoff",
-                "ingredients": [
-                  "beef sirloin",
-                  "mushrooms",
-                  "onion",
-                  "sour cream",
-                  "beef broth",
-                  "noodles",
-                  "flour"
-                ]
               }
             ]
           }, 
@@ -445,7 +406,7 @@
             "chef_id": 6,
             "name": "Kaki Varti",
             "description": "Chef A is a classically trained chef with over 20 years of experience in fine dining. He is known for his innovative approach to traditional dishes and his attention to detail.",
-            "image_url": "https://images.news18.com/ibnlive/uploads/2022/09/pjimage-9-3.jpg",
+            "image_url": "https://cdn1.katadata.co.id/media/images/thumb/2022/12/30/Gaji_chef_di_hotel-2022_12_30-19_37_32_4d1725de9bede33196822031c967ab70_400x267_thumb.jpg",
             "likes":"321",
             "recipes": [
               {
@@ -498,32 +459,6 @@
                   "cumin",
                   "chili powder",
                   "tortillas"
-                ]
-              },
-              {
-                "recipe_id": 5,
-                "name": "Vegetable Lasagna",
-                "ingredients": [
-                  "lasagna noodles",
-                  "zucchini",
-                  "yellow squash",
-                  "carrots",
-                  "spinach",
-                  "ricotta cheese",
-                  "mozzarella cheese"
-                ]
-              },
-              {
-                "recipe_id": 6,
-                "name": "Beef Stroganoff",
-                "ingredients": [
-                  "beef sirloin",
-                  "mushrooms",
-                  "onion",
-                  "sour cream",
-                  "beef broth",
-                  "noodles",
-                  "flour"
                 ]
               }
             ]
